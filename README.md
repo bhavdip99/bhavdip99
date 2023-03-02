@@ -24,8 +24,6 @@
 - 🌱 I’m currently learning DSA & problem solving
 - 👯 I’m looking to collaborate with other Developers 
 - 💬 Ask me about **Kotlin, Java, DSA**
-                                                               
-<br>
 <br>
 <!--
 **bhavdip99/bhavdip99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
