@@ -27,11 +27,6 @@
                                                                
 <br>
 <br>
-<br>
-<br>
-
-### Hi there 👋
-
 <!--
 **bhavdip99/bhavdip99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
